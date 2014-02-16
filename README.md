@@ -5,8 +5,10 @@ Create book from the sequence of images.
 
 Usage under Linux:
 img2pdf.pl <path-to-directory-with-book-images>
-under Windows 
+under Windows x64: 
 img2pdf.exe <path-to-directory-with-book-images>
+
+Windows x32 platform does not supported.
 
 Images naming convention:
 000.jpg
