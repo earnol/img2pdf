@@ -4,9 +4,9 @@ img2pdf
 Create book from the sequence of images.
 <pre>
 Usage under Linux:
-img2pdf.pl <path-to-directory-with-book-images>
+img2pdf.pl &lt;path-to-directory-with-book-images&gt;
 under Windows x64: 
-img2pdf.exe <path-to-directory-with-book-images>
+img2pdf.exe &lt;path-to-directory-with-book-images&gt;
 
 Windows x32 platform does not supported.
 
