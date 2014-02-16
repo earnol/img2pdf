@@ -2,7 +2,7 @@ img2pdf
 =======
 
 Create book from the sequence of images.
-
+<pre>
 Usage under Linux:
 img2pdf.pl <path-to-directory-with-book-images>
 under Windows x64: 
@@ -25,3 +25,4 @@ Example:
 Awesome book name, J.Doe, J. Doe Jr,..., L. Author, Awesome publisher, 2014
 
 Enjoy!
+</pre>
