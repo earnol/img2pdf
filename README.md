@@ -19,7 +19,7 @@ Images naming convention:
 images names should be same length and same extension.
 
 Directory with images naming convention:
-<book name>, <comma separated author list>, <publisher>, <year of publishing>
+&lt;book name&gt;, &lt;comma separated author list&gt;, &lt;publisher&gt;, &lt;year of publishing&gt;
 
 Example:
 Awesome book name, J.Doe, J. Doe Jr,..., L. Author, Awesome publisher, 2014
